@@ -4,4 +4,4 @@
 I'm Aryan
 
 A bit about me:
-- 📚 Business Analytics and Information Technology at Rutgers University
+- 📚 Studying Business Analytics and Information Technology at Rutgers University
