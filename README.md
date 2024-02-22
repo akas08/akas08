@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://linkedin.com/in/aryankas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://linkedin.com/in/aryankasargod/)
 
 I'm Aryan
 
