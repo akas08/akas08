@@ -4,4 +4,4 @@
 I'm Aryan
 
 A bit about me:
-- 📚 Studying Business Analytics and Information Technology at Rutgers University
+- 📚 Graduated Magna Cum Laude from Rutgers University-New Brunswick with a B.S. in Business Analytics and Information Technology
